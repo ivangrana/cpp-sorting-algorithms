@@ -31,3 +31,19 @@ Best case = O(nlogn)
  Worst case = O(n²)
    
  Best case = O(n)
+ 
+ ## Insertion Sort:
+ <img src="https://updatedcode.files.wordpress.com/2011/11/insertion-sort-example-300px.gif" width="600"/>
+-> efficient for small data values.
+
+-> works similar to the way you sort playing cards.
+
+ <h3>Complexity:<h3>  
+   
+ Average performance = O(n²)
+   
+ Worst case = O(n²)
+   
+ Best case = O(n)
+ 
+ Stable
